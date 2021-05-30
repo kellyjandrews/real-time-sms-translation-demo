@@ -19,7 +19,7 @@
     "react-scripts": "3.4.0",
     "react-use-websocket": "^1.2.0",
     "styled-components": "^5.0.0",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "start": "react-scripts start",
